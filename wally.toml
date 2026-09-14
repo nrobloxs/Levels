@@ -1,0 +1,8 @@
+[package]
+name = "devex/levels"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+dataservicetyped = "leifstout/dataservicetyped@1.0.5"
