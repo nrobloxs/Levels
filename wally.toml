@@ -6,3 +6,4 @@ realm = "shared"
 
 [dependencies]
 dataservicetyped = "leifstout/dataservicetyped@1.0.5"
+Networker = "leifstout/networker@0.3.1"

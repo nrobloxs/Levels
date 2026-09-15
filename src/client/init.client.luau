@@ -1,0 +1,5 @@
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local LevelServiceClient = require(ReplicatedStorage.Shared.Services.LevelService.LevelServiceClient)
+local LevelServiceUtils = require(ReplicatedStorage.Shared.Services.LevelService.LevelServiceUtils)
+LevelServiceUtils:init()
+LevelServiceClient:init()
